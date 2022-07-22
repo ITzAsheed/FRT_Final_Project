@@ -1,5 +1,6 @@
 # FRT_Final_Project
 This is my final future ready talent virtual internship project.This is a website which helps people to find great recipes.
+
 WEBSITE SCREENSHOTS:
 
 Home:
