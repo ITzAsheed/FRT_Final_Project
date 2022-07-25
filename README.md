@@ -23,6 +23,9 @@ Sign-in to Github and select your org, repo, and branch.
 
 6.View your static web app.
 
+Steps taken for 
+
+
 PROJECT VIDEO LINK:
 https://drive.google.com/file/d/1MjInQ5Bh6fSv1InoasdBp14AYSLQTa6F/view?usp=sharing
 
