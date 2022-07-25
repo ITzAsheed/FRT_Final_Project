@@ -4,6 +4,21 @@ This website is created by Mohammad Asheed khan.
 This is my final future ready talent virtual internship project.This is a website which helps people to find great recipes.This website is created with css,html,javascript and Microsoft Azure Static Web App,Visual Studio code and Azure Resource Manager will be deployed on web using Azure Deployment services.
 
 
+Steps taken to create Azure Resource Manager:
+
+1.Sign-in to the Azure Portal.
+
+2.Search for “Resource Manager”.
+
+3.Select the Create button.
+
+4.Fill out the form.
+
+5.Create your resource manager.
+
+6.Create resources in manager and build apps .
+
+
 Steps taken for deployment using Azure Static Web App:
 
 1.Push app code to Github.
@@ -24,7 +39,6 @@ Sign-in to Github and select your org, repo, and branch.
 
 6.View your static web app.
 
-Steps taken for 
 
 URL for the Project Demo:
 https://witty-coast-0c765b110.1.azurestaticapps.net
@@ -46,4 +60,5 @@ CONTACT:
 ![contact](https://user-images.githubusercontent.com/94754248/180518887-56a41860-4be0-4fce-8bed-bc81c710c241.png)
 
 AZURE PORTAL:
-![Screenshot (19)](https://user-images.githubusercontent.com/94754248/180520425-aa68b34a-47cd-41ab-b0fd-aa480d506f81.png)
+
+![Screenshot (19)](https://user-images.githubusercontent.com/94754248/180822452-00f26b09-a6c5-410a-a0fa-8a3777b503e7.png)
