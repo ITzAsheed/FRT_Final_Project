@@ -1,6 +1,8 @@
 # FRT_Final_Project
 This website is created by Mohammad Asheed khan.
 This is my final future ready talent virtual internship project.This is a website which helps people to find great recipes.This website is created with css,html,javascript and Microsoft Azure Static Web App,Visual Studio code and Azure Resource Manager will be deployed on web using Azure Deployment services.
+
+
 Steps taken for deployment using Azure Static Web App:
 1.Push app code to Github.
 2.Sign-in to the Azure Portal, search for “Static Web App”, and select the Create button.
